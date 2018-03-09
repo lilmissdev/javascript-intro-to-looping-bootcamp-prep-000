@@ -16,5 +16,5 @@ function whileloop(n) {
   return 'done'
   }
 function doWhileLoop(array) {
-  if (n)
+  
 }
